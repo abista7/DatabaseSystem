@@ -1,3 +1,8 @@
+# Instructor Comments (ERD only)
+
+Your ERD is not correct, for the final version of this diagram you need to have relationships. It needs to be redone again entirely. Also, you need at least 16 entities in your diagram. 
+
+
 # The Semantic-Conceptual Model 
 
 In this homework, students will learn to design a database system from a concept based on use cases, bussines rules (database requeriments), and Entity Relation Diagrams (ERD). 
