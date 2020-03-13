@@ -6,7 +6,7 @@
 1. -2 Use Cases missing actors (names)
 2. -2 Incorrect use case
 3. -2 Business Rules 
-4. -10 Missing relation between entities and relationships(ISA, Recursive, 0 to M)
+4. -10 Missing relation between entities and relationships(ISA, Recursive)
 
 # Instructor Comments (ERD only)
 
