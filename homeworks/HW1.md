@@ -1,3 +1,13 @@
+# Grade
+
+```
+84/100
+```
+1. -2 Use Cases missing actors (names)
+2. -2 Incorrect use case
+3. -2 Business Rules 
+4. -10 Missing relation between entities and relationships(ISA, Recursive, 0 to M)
+
 # Instructor Comments (ERD only)
 
 Your ERD is not correct, for the final version of this diagram you need to have relationships. It needs to be redone again entirely. Also, you need at least 16 entities in your diagram. 
