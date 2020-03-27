@@ -9,7 +9,7 @@ Welcome to Database Systems!. Please modify this README file with the following 
 | Assignment               | Completed     |
 | ------------------------ | ------------- |
 | Conceptual Model         |     done      |
-| Relational Model         | not done yet  |
+| Relational Model         |     done      |
 | Indexing                 | not done yet  |
 | Course Project           | not done yet  |
 
