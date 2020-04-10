@@ -1,3 +1,10 @@
+# Grade
+
+```
+50/100
+```
+Error in creating Database (Error: SQL Syntax)
+
 # The Relational Model 
 
 The relational model represents how data is storaged in databases based in a conceptual design (ERD). In this homework you will create the database model based in your ERD. 
