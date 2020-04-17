@@ -72,8 +72,8 @@ Depending on the operation selected by the user, print the following
 Below you can find the input and output required for your program. Px are the pointers pointing to that node from the parent node. For example, in the first tree, 1,5(p0) means that pointer 0 from the non-leaf node 12,NULL is pointing to the leaf node 1,5. Note that pointer 0 is always the first pointer of a non-leaf node starting from the most left one.
 
 ```python
-Enter order of the tree: 2
-Enter data entries: 12, 32, 1, 35, 87, 24, 78, 43, 88, 5
+Enter order of the tree: 1
+Enter data entries: 12, 32, 1, 35, 87, 24, 78, 47, 88, 5
 
 B+ tree: 
 32,NULL 
