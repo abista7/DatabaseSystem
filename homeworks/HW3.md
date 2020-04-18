@@ -13,9 +13,7 @@ numbers within the range [1,100] that are separated by commas.
 
 2. Recall that the first pass of two-way merge sort algorithm needs 1 bu↵er, and the subsequent passes
 need 3 bu↵er 2 for input data, and 1 for output data.
-
 3. Assume that page size is 4KB.
-
 4. Input buffers: Read-in the input data in chunks of 4KB (page size). Therefore, at any given point
 your program should read-in at most 8KB (2 pages) of input data. However, you can assume a
 tolerance of +/- 4bytes for each bu↵er to ensure that an entry (an age value) does not get split.
